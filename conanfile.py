@@ -1,6 +1,6 @@
 from conans import ConanFile
 from conans import tools
-import platform, os, sys
+import os, sys
 
 
 class BoostConan(ConanFile):
